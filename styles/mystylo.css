@@ -1,0 +1,36 @@
+.imagen { width: 180px; height: 260px; }
+body{
+    background-color:#e665ac
+;
+    display: flex;
+    justify-content: center;
+    
+    height: 100vh;
+    margin: 0;
+}
+div{
+
+    background-color: #FF7AC3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 450px;
+    height: 400px;
+
+    flex-direction: column;
+    box-shadow: 5px 5px 15px gray;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH_dHVa8WoYjcarWa--r51DtB-gNlSSpHrVg&usqp=CAU');
+}
+
+.Nombre{
+    color: rgb(152, 13, 180);
+}
+.pa{ color:#FFF8BB;
+    background-color: #FF7AC3;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    }
+
